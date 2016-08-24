@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.7792696
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#1B1C21'
+    - '#455169'
+    - '#93AE7B'
+    - '#93735A'
+  rhythmicContrast: 0.7781955
+typography_spectrum: 0.09183671
+name: Ellaria Branwen Gunderson Molnar
