@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.09183671
 color:
   saturation: 1
   brandStrength: 1
@@ -9,18 +22,5 @@ color:
     - '#93AE7B'
     - '#93735A'
   lightness: 0.7792696
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 layout_spectrum: 1
-typography_spectrum: 0.09183671
 name: Ellaria Branwen Gunderson Molnar
